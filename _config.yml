@@ -1,7 +1,7 @@
-title: CP 214 Foundation of Robotics # title which appears for the website
+title: Foundation of Robotics # title which appears for the website
 email: #your-email@example.com
 description: > # short discription of your website. It is helpful for making your website more discoverable and appears while previewing your website.
-    A jekyll template for creating course websites.
+    Course Website for CP 214 Foundation of Robotics by Prof. Shishir NY and Prof. Pushpak Jagtap @IISc, Bangalore .
  
 baseurl: "IISc-CP214"   # specify the subpath of your site
 url: "https://tayalmanan28.github.io" # the base hostname & protocol for YOUR site, e.g. http://example.com
