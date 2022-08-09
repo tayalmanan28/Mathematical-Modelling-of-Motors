@@ -1,12 +1,12 @@
 instructor:
-- name: Alpha Beta
-  github: https://github.com/atharva-chandak #instrucor's github link
-  email: intructor@gmail.com 
-  img: assets/instructor.svg
-  consultation: 'Sat 6:30 - 7:30pm, 6116A'
+- name: Shishir NY Kolathaya
+  github: http://www.shishirny.com/ #instrucor's github link
+  email: shishirk@iisc.ac.in 
+  img: assets/shishir.jpg
+  consultation: 'Robert Bosch Center for CPS, SID Building, IISc'
 
-- name: Gamma Delta
-  github: https://github.com/atharva-chandak 
-  email: intructor@gmail.com 
-  img: assets/instructor.svg
-  consultation: 'Mon 6:30 - 7:30pm, 6116B'
+- name: Pushpak Jagtap
+  github: https://www.pushpakjagtap.com/
+  email: pushpak@iisc.ac.in
+  img: assets/pushpak.jpg
+  consultation: 'Robert Bosch Center for CPS, SID Building, IISc'
