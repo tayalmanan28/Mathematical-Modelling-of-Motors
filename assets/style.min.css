@@ -31,7 +31,8 @@ ul>li{
 
 .images{
   display: flex;
-  height: 20vh;
+  height: 5vh;
+  widt: 10vh;
   align-items: center;
   justify-content: center;
   }
