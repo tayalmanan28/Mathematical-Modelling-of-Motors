@@ -2,11 +2,11 @@ instructor:
 - name: Shishir NY Kolathaya
   github: http://www.shishirny.com/ #instrucor's github link
   email: shishirk@iisc.ac.in 
-  img: assets/shishir.jpg
+  img: assets/images/shishir.jpg
   consultation: 'Robert Bosch Center for CPS, SID Building, IISc'
 
 - name: Pushpak Jagtap
   github: https://www.pushpakjagtap.com/
   email: pushpak@iisc.ac.in
-  img: assets/pushpak.jpg
+  img: assets/images/pushpak.jpg
   consultation: 'Robert Bosch Center for CPS, SID Building, IISc'
