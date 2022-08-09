@@ -8,6 +8,8 @@ footer_content:
       sub_link: "/#Course Description"
     - subtab: "Instructors"
       sub_link: "/#Instructors"
+    - subtab: "Teaching Assistants"
+      sub_link: "/#Teaching Assistants"
     - subtab: "FAQs"
       sub_link: "/#FAQs"   
 
@@ -21,13 +23,11 @@ footer_content:
 
   - tabname: "Syllabus"
     link: "syllabus"
-    subtopic:
-    - subtab: "Technology"
-      sub_link: "syllabus#Technology" 
-    - subtab: "Materials"
-      sub_link: "syllabus#Materials" 
-    - subtab: "Late Policy"
-      sub_link: "syllabus#Late Policy"  
+    subtopic: 
+    - subtab: "References"
+      sub_link: "syllabus#References" 
+    - subtab: "Late Submission Policy"
+      sub_link: "syllabus#Late Submission Policy"  
     - subtab: "Grading Policy"
       sub_link: "syllabus#Grading Policy"
 
